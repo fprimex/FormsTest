@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormsTest", "FormsTest\Form
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormTest.WPF", "FormTest.WPF\FormTest.WPF.csproj", "{86EFCECF-113A-4B61-9712-2A191299318A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormTest.MacOS", "FormTest.MacOS\FormTest.MacOS.csproj", "{E478909A-E058-4258-96BC-3BED5C652E6F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormsTest.MacOS", "FormTest.MacOS\FormsTest.MacOS.csproj", "{E478909A-E058-4258-96BC-3BED5C652E6F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
